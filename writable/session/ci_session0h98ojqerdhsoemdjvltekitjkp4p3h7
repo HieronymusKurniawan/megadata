@@ -1,0 +1,9 @@
+__ci_last_regenerate|i:1660181712;_ci_previous_url|s:43:"https://192.168.236.88/megadata/public/auth";pesan|s:243:"
+                <script>
+                     Swal.fire(
+                         'Error!',
+                         'NIP sudah terdaftar!',
+                        'error'
+                     )
+               </script>
+             ";__ci_vars|a:3:{s:5:"pesan";s:3:"old";s:13:"_ci_old_input";s:3:"old";s:21:"_ci_validation_errors";s:3:"old";}_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:8:{s:3:"nip";s:1:"1";s:12:"nama_pegawai";s:5:"Winda";s:13:"jenis_kelamin";s:9:"Perempuan";s:6:"alamat";s:47:"Jl. Sambisari RT 3 RW 33 Jaban, Tridadi, Sleman";s:10:"no_telepon";s:12:"089684812312";s:5:"email";s:15:"winda@gmail.com";s:8:"password";s:5:"winda";s:6:"gambar";s:6:"17.JPG";}}_ci_validation_errors|s:66:"a:1:{s:3:"nip";s:42:"The nip field must contain a unique value.";}";

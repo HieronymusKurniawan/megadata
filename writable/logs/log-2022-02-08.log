@@ -1,0 +1,28 @@
+CRITICAL - 2022-02-08 05:30:27 --> Undefined variable: j
+#0 C:\xampp\htdocs\presensi-2\app\Views\admin\pegawai\data-pegawai.php(145): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 145, Array)
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('admin/pegawai/d...', Array, true)
+#4 C:\xampp\htdocs\presensi-2\app\Controllers\Admin.php(70): view('admin/pegawai/d...', Array)
+#5 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->pegawai()
+#6 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-08 06:00:14 --> Undefined variable: jabatan
+#0 C:\xampp\htdocs\presensi-2\app\Views\admin\pegawai\data-pegawai.php(218): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 218, Array)
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('admin/pegawai/d...', Array, true)
+#4 C:\xampp\htdocs\presensi-2\app\Controllers\Admin.php(70): view('admin/pegawai/d...', Array)
+#5 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->pegawai()
+#6 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-08 19:13:42 --> Call to a member function getClientExtension() on null
+#0 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->excel_pegawai()
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

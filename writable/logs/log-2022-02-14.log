@@ -1,0 +1,89 @@
+CRITICAL - 2022-02-14 07:56:29 --> Undefined property: stdClass::$kode_absen
+#0 C:\xampp\htdocs\presensi-2\app\Views\admin\absensi\detail-absensi-pegawai.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 108, Array)
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('admin/absensi/d...', Array, true)
+#4 C:\xampp\htdocs\presensi-2\app\Controllers\Admin.php(713): view('admin/absensi/d...', Array)
+#5 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->absen_pegawai('0E9DfFMoKI', '5')
+#6 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-14 07:58:37 --> Undefined variable: detail_absen
+#0 C:\xampp\htdocs\presensi-2\app\Views\admin\absensi\detail-absensi-pegawai.php(117): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 117, Array)
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('admin/absensi/d...', Array, true)
+#4 C:\xampp\htdocs\presensi-2\app\Controllers\Admin.php(713): view('admin/absensi/d...', Array)
+#5 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->absen_pegawai('0E9DfFMoKI', '5')
+#6 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-14 07:58:51 --> Undefined variable: detail_absensi
+#0 C:\xampp\htdocs\presensi-2\app\Views\admin\absensi\detail-absensi-pegawai.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 108, Array)
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('admin/absensi/d...', Array, true)
+#4 C:\xampp\htdocs\presensi-2\app\Controllers\Admin.php(713): view('admin/absensi/d...', Array)
+#5 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->absen_pegawai('0E9DfFMoKI', '5')
+#6 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-14 08:03:32 --> Undefined variable: pengaturan
+#0 C:\xampp\htdocs\presensi-2\app\Views\admin\absensi\detail-absensi-pegawai.php(131): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 131, Array)
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('admin/absensi/d...', Array, true)
+#4 C:\xampp\htdocs\presensi-2\app\Controllers\Admin.php(713): view('admin/absensi/d...', Array)
+#5 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->absen_pegawai('0E9DfFMoKI', '1')
+#6 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-14 13:10:40 --> The original file is not a valid file.
+#0 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\HTTP\Files\UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 C:\xampp\htdocs\presensi-2\app\Controllers\Pegawai.php(336): CodeIgniter\HTTP\Files\UploadedFile->move('assets/img/pega...', '1644819040_1395...')
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->izin()
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#4 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-14 13:13:38 --> The original file is not a valid file.
+#0 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\HTTP\Files\UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 C:\xampp\htdocs\presensi-2\app\Controllers\Pegawai.php(336): CodeIgniter\HTTP\Files\UploadedFile->move('assets/img/pega...', '1644819218_e0c8...')
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->izin()
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#4 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-14 13:21:58 --> Undefined property: stdClass::$izin
+#0 C:\xampp\htdocs\presensi-2\app\Controllers\Pegawai.php(351): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 351, Array)
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->izin()
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-14 13:56:58 --> Undefined variable: detail_absen
+#0 C:\xampp\htdocs\presensi-2\app\Views\admin\absensi\detail-izin-pegawai.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 123, Array)
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('admin/absensi/d...', Array, true)
+#4 C:\xampp\htdocs\presensi-2\app\Controllers\Admin.php(743): view('admin/absensi/d...', Array)
+#5 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->izin_pegawai('0E9DfFMoKI', '5')
+#6 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-14 13:57:10 --> Undefined property: stdClass::$status_absen
+#0 C:\xampp\htdocs\presensi-2\app\Views\admin\absensi\detail-izin-pegawai.php(123): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 123, Array)
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('admin/absensi/d...', Array, true)
+#4 C:\xampp\htdocs\presensi-2\app\Controllers\Admin.php(743): view('admin/absensi/d...', Array)
+#5 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->izin_pegawai('0E9DfFMoKI', '5')
+#6 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

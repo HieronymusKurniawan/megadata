@@ -1,0 +1,34 @@
+CRITICAL - 2022-02-13 19:44:47 --> Invalid file: pegawai/detail-absen.php
+#0 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pegawai/detail-...')
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/detail-...', Array, true)
+#2 C:\xampp\htdocs\presensi-2\app\Controllers\Pegawai.php(325): view('pegawai/detail-...', Array)
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->detail_absen('9ywSoletOg')
+#4 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#5 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-13 20:01:56 --> Undefined property: stdClass::$jam_pulang
+#0 C:\xampp\htdocs\presensi-2\app\Views\pegawai\detail_absen.php(134): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 134, Array)
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/detail_...', Array, true)
+#4 C:\xampp\htdocs\presensi-2\app\Controllers\Pegawai.php(326): view('pegawai/detail_...', Array)
+#5 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->detail_absen('9ywSoletOg')
+#6 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-02-13 18:46:54 --> Unknown column 'kode_absen' in 'where clause'
+CRITICAL - 2022-02-13 18:46:54 --> Unknown column 'kode_absen' in 'where clause'
+#0 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('DELETE FROM `ab...', 0)
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `ab...')
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `ab...')
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2225): CodeIgniter\Database\BaseConnection->query('DELETE FROM `ab...', Array, false)
+#4 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Model.php(359): CodeIgniter\Database\BaseBuilder->delete()
+#5 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\BaseModel.php(963): CodeIgniter\Model->doDelete(NULL, false)
+#6 C:\xampp\htdocs\presensi-2\app\Controllers\Admin.php(691): CodeIgniter\BaseModel->delete()
+#7 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->hapus_absen('nqiLAJQ1I3')
+#8 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#9 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}

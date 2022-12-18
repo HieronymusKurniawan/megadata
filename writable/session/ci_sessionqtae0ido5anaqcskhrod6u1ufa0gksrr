@@ -1,0 +1,9 @@
+__ci_last_regenerate|i:1671100251;_ci_previous_url|s:69:"https://172.23.26.162/megadata/public/admin/izin_pegawai/Xqk26dj48U/1";id_admin|s:1:"1";nama_admin|s:5:"admin";email|s:15:"admin@gmail.com";role|s:1:"1";pesan|s:211:"
+            <script>
+                Swal.fire(
+                    'Berhasil!',
+                    'Berhasil Diizinkan!',
+                    'success'
+                )
+            </script>
+        ";__ci_vars|a:1:{s:5:"pesan";s:3:"old";}

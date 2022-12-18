@@ -1,0 +1,100 @@
+CRITICAL - 2022-02-24 09:11:19 --> Call to a member function orderBy() on array
+#0 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->absensi()
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-24 09:11:20 --> Call to a member function orderBy() on array
+#0 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->absensi()
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-02-24 09:16:06 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`=` DESC' at line 3
+CRITICAL - 2022-02-24 09:16:06 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`=` DESC' at line 3
+#0 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Model.php(728): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\presensi-2\app\Controllers\Admin.php(758): CodeIgniter\Model->__call('get', Array)
+#6 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->absensi()
+#7 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-02-24 09:16:09 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`=` DESC' at line 3
+CRITICAL - 2022-02-24 09:16:09 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`=` DESC' at line 3
+#0 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Model.php(728): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\presensi-2\app\Controllers\Admin.php(758): CodeIgniter\Model->__call('get', Array)
+#6 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->absensi()
+#7 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-02-24 09:16:14 --> Unknown column 'id_absensi=' in 'order clause'
+CRITICAL - 2022-02-24 09:16:14 --> Unknown column 'id_absensi=' in 'order clause'
+#0 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Model.php(728): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\presensi-2\app\Controllers\Admin.php(758): CodeIgniter\Model->__call('get', Array)
+#6 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->absensi()
+#7 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-02-24 09:16:16 --> Unknown column 'id_absensi=' in 'order clause'
+CRITICAL - 2022-02-24 09:16:16 --> Unknown column 'id_absensi=' in 'order clause'
+#0 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Model.php(728): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\presensi-2\app\Controllers\Admin.php(758): CodeIgniter\Model->__call('get', Array)
+#6 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->absensi()
+#7 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-02-24 09:18:26 --> Call to a member function orderBy() on array
+#0 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->absensi()
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-24 09:18:27 --> Call to a member function orderBy() on array
+#0 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->absensi()
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-24 09:18:28 --> Call to a member function orderBy() on array
+#0 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->absensi()
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-24 09:18:48 --> Call to a member function orderBy() on array
+#0 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->absensi()
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-24 09:18:55 --> Call to a member function orderBy() on array
+#0 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->absensi()
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-24 09:19:01 --> Call to a member function orderBy() on array
+#0 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->absensi()
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

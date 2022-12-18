@@ -1,0 +1,102 @@
+CRITICAL - 2022-08-10 21:28:14 --> Undefined variable: jabatan
+#0 C:\xampp\htdocs\megadata\app\Views\auth\login.php(72): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 72, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('auth/login', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Auth.php(36): view('auth/login')
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Auth->index()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-10 21:38:54 --> Call to a member function asObject() on null
+#0 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('auth/login', Array, true)
+#3 C:\xampp\htdocs\megadata\app\Controllers\Auth.php(36): view('auth/login')
+#4 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Auth->index()
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-08-10 21:39:10 --> Call to a member function findAll() on null
+#0 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('auth/login', Array, true)
+#3 C:\xampp\htdocs\megadata\app\Controllers\Auth.php(36): view('auth/login')
+#4 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Auth->index()
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-08-10 21:39:30 --> Trying to get property 'id_jabatan' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\auth\login.php(80): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 80, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('auth/login', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Auth.php(36): view('auth/login')
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Auth->index()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-10 21:40:41 --> Call to a member function getError() on null
+#0 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Auth->register()
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-10 21:44:37 --> Call to a member function getError() on null
+#0 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Auth->register()
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-10 21:45:02 --> Call to a member function getError() on null
+#0 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Auth->register()
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-10 21:48:16 --> Call to a member function getError() on null
+#0 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Auth->register()
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-10 21:49:40 --> Call to a member function getError() on null
+#0 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Auth->register()
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-10 21:52:22 --> Call to a member function getError() on null
+#0 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Auth->register()
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-10 21:53:59 --> Call to a member function getError() on null
+#0 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Auth->register()
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-10 21:57:12 --> Call to a member function getError() on null
+#0 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Auth->register()
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-10 21:58:59 --> Call to a member function getError() on null
+#0 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Auth->register()
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-10 22:06:50 --> Call to a member function getError() on null
+#0 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Auth->register()
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

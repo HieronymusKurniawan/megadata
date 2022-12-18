@@ -1,0 +1,180 @@
+CRITICAL - 2022-08-09 08:21:28 --> Trying to get property 'kode_absensi' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\dashboard.php(200): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 200, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/dashboa...', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(57): view('pegawai/dashboa...', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->index()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-09 08:21:38 --> Trying to get property 'kode_absensi' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\dashboard.php(200): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 200, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/dashboa...', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(57): view('pegawai/dashboa...', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->index()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-09 08:29:17 --> Trying to get property 'kode_absensi' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\dashboard.php(200): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 200, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/dashboa...', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(57): view('pegawai/dashboa...', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->index()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-09 08:31:19 --> Trying to get property 'kode_absensi' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\dashboard.php(200): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 200, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/dashboa...', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(57): view('pegawai/dashboa...', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->index()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-09 08:53:17 --> Undefined index: nip
+#0 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(92): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 92, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-09 08:53:35 --> Undefined index: nip
+#0 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(92): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 92, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-09 08:55:59 --> Undefined index: nip
+#0 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(92): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 92, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-09 08:56:33 --> Trying to get property 'nip' of non-object
+#0 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(92): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 92, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-09 09:01:04 --> Trying to get property 'nip' of non-object
+#0 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(93): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 93, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-09 09:01:19 --> Undefined index: nip
+#0 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(93): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 93, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-09 09:07:45 --> Undefined index: nip
+#0 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(93): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 93, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-09 09:08:09 --> Trying to get property 'nip' of non-object
+#0 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(93): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 93, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-09 09:09:26 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(93): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'C:\\xampp\\htdocs...', 93, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-09 09:10:43 --> Undefined variable: cekNIP
+#0 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(91): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 91, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-09 09:27:11 --> Trying to get property 'kode_absensi' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\dashboard.php(200): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 200, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/dashboa...', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(57): view('pegawai/dashboa...', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->index()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-09 09:29:58 --> Trying to get property 'kode_absensi' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\dashboard.php(200): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 200, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/dashboa...', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(57): view('pegawai/dashboa...', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->index()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-09 09:30:00 --> Trying to get property 'kode_absensi' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\dashboard.php(200): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 200, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/dashboa...', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(57): view('pegawai/dashboa...', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->index()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-09 01:42:13 --> Undefined variable: jabatan
+#0 C:\xampp\htdocs\megadata\app\Views\auth\login2.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 96, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('auth/login2', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Auth.php(36): view('auth/login2')
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Auth->index()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-09 01:43:44 --> Undefined variable: jabatan
+#0 C:\xampp\htdocs\megadata\app\Views\auth\login2.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 96, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('auth/login2', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Auth.php(36): view('auth/login2')
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Auth->index()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-09 01:44:21 --> Undefined variable: jabatan
+#0 C:\xampp\htdocs\megadata\app\Views\auth\login2.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 96, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('auth/login2', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Auth.php(36): view('auth/login2')
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Auth->index()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

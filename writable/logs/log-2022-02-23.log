@@ -1,0 +1,14 @@
+CRITICAL - 2022-02-23 20:11:06 --> syntax error, unexpected ';', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('admin/absensi')
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('admin/absensi')
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-23 20:11:07 --> syntax error, unexpected ';', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('admin/absensi')
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('admin/absensi')
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

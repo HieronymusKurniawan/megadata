@@ -1,0 +1,8 @@
+CRITICAL - 2022-02-17 13:03:23 --> The original file is not a valid file.
+#0 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\HTTP\Files\UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 C:\xampp\htdocs\presensi-2\app\Controllers\Pegawai.php(340): CodeIgniter\HTTP\Files\UploadedFile->move('assets/img/pega...', '1645077803_b89c...')
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->izin()
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#4 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

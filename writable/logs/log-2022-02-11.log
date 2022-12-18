@@ -1,0 +1,110 @@
+CRITICAL - 2022-02-11 09:10:51 --> Undefined variable: absensi
+#0 C:\xampp\htdocs\presensi-2\app\Views\pegawai\dashboard.php(126): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 126, Array)
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/dashboa...', Array, true)
+#4 C:\xampp\htdocs\presensi-2\app\Controllers\Pegawai.php(56): view('pegawai/dashboa...', Array)
+#5 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->index()
+#6 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 10:01:58 --> Call to undefined method App\Models\AbsenDetailModel::oderBy
+#0 C:\xampp\htdocs\presensi-2\app\Models\AbsenDetailModel.php(28): CodeIgniter\Model->__call('oderBy', Array)
+#1 C:\xampp\htdocs\presensi-2\app\Controllers\Pegawai.php(94): App\Models\AbsenDetailModel->riwayatAbsen('1')
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->absensi()
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#4 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-11 10:02:11 --> Call to undefined method App\Models\AbsenDetailModel::oder_by
+#0 C:\xampp\htdocs\presensi-2\app\Models\AbsenDetailModel.php(28): CodeIgniter\Model->__call('oder_by', Array)
+#1 C:\xampp\htdocs\presensi-2\app\Controllers\Pegawai.php(94): App\Models\AbsenDetailModel->riwayatAbsen('1')
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->absensi()
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#4 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-11 10:02:24 --> Call to undefined method App\Models\AbsenDetailModel::oderBy
+#0 C:\xampp\htdocs\presensi-2\app\Models\AbsenDetailModel.php(28): CodeIgniter\Model->__call('oderBy', Array)
+#1 C:\xampp\htdocs\presensi-2\app\Controllers\Pegawai.php(94): App\Models\AbsenDetailModel->riwayatAbsen('1')
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->absensi()
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#4 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-11 10:02:39 --> Call to undefined method App\Models\AbsenDetailModel::oderby
+#0 C:\xampp\htdocs\presensi-2\app\Models\AbsenDetailModel.php(28): CodeIgniter\Model->__call('oderby', Array)
+#1 C:\xampp\htdocs\presensi-2\app\Controllers\Pegawai.php(94): App\Models\AbsenDetailModel->riwayatAbsen('1')
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->absensi()
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#4 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-11 10:02:43 --> Call to undefined method App\Models\AbsenDetailModel::oder_by
+#0 C:\xampp\htdocs\presensi-2\app\Models\AbsenDetailModel.php(28): CodeIgniter\Model->__call('oder_by', Array)
+#1 C:\xampp\htdocs\presensi-2\app\Controllers\Pegawai.php(94): App\Models\AbsenDetailModel->riwayatAbsen('1')
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->absensi()
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#4 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-11 14:31:28 --> Undefined variable: pegawai
+#0 C:\xampp\htdocs\presensi-2\app\Views\pegawai\isi-absen.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 51, Array)
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/isi-abs...', Array, true)
+#4 C:\xampp\htdocs\presensi-2\app\Controllers\Pegawai.php(129): view('pegawai/isi-abs...', Array)
+#5 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->absen('nqiLAJQ1I3')
+#6 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 14:32:02 --> Undefined variable: riwayat_absensi
+#0 C:\xampp\htdocs\presensi-2\app\Views\pegawai\data-absen.php(169): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 169, Array)
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/data-ab...', Array, true)
+#4 C:\xampp\htdocs\presensi-2\app\Controllers\Pegawai.php(129): view('pegawai/data-ab...', Array)
+#5 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->absen('nqiLAJQ1I3')
+#6 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 15:13:27 --> Undefined property: stdClass::$jarak
+#0 C:\xampp\htdocs\presensi-2\app\Views\admin\absensi\setting-absensi.php(184): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 184, Array)
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('admin/absensi/s...', Array, true)
+#4 C:\xampp\htdocs\presensi-2\app\Controllers\Admin.php(580): view('admin/absensi/s...', Array)
+#5 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->pengaturan_absen()
+#6 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 16:37:53 --> Too few arguments to function App\Controllers\Pegawai::absen(), 0 passed in C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->absen()
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 17:12:29 --> Too few arguments to function App\Controllers\Pegawai::absen(), 0 passed in C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->absen()
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 20:04:14 --> syntax error, unexpected 'session' (T_STRING)
+#0 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('pegawai/absensi')
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('pegawai/absensi')
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-11 20:04:20 --> syntax error, unexpected 'session' (T_STRING)
+#0 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('pegawai/absen/n...')
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('pegawai/absen/n...')
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

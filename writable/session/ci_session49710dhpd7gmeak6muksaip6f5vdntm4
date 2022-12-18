@@ -1,0 +1,9 @@
+__ci_last_regenerate|i:1660182477;_ci_previous_url|s:43:"https://192.168.236.88/megadata/public/auth";pesan|s:243:"
+                <script>
+                     Swal.fire(
+                         'Error!',
+                         'NIP sudah terdaftar!',
+                        'error'
+                     )
+               </script>
+             ";__ci_vars|a:3:{s:5:"pesan";s:3:"old";s:13:"_ci_old_input";s:3:"old";s:21:"_ci_validation_errors";s:3:"old";}_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:0:{}}_ci_validation_errors|s:66:"a:1:{s:3:"nip";s:42:"The nip field must contain a unique value.";}";

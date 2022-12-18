@@ -1,0 +1,923 @@
+CRITICAL - 2022-08-06 09:02:55 --> Trying to get property 'nip' of non-object
+#0 C:\xampp\htdocs\megadata\app\Controllers\Admin.php(249): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 249, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->tambah_pegawai_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-06 09:03:32 --> Trying to get property 'nip' of non-object
+#0 C:\xampp\htdocs\megadata\app\Controllers\Admin.php(249): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 249, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->tambah_pegawai_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-06 09:07:28 --> Trying to get property 'nip' of non-object
+#0 C:\xampp\htdocs\megadata\app\Controllers\Admin.php(249): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 249, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->tambah_pegawai_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-06 09:08:16 --> Trying to get property 'email' of non-object
+#0 C:\xampp\htdocs\megadata\app\Controllers\Admin.php(262): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 262, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->tambah_pegawai_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-06 09:12:11 --> Trying to get property 'nip' of non-object
+#0 C:\xampp\htdocs\megadata\app\Controllers\Admin.php(249): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 249, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->tambah_pegawai_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-06 09:15:08 --> Trying to get property 'nip' of non-object
+#0 C:\xampp\htdocs\megadata\app\Controllers\Admin.php(249): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 249, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->tambah_pegawai_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-06 09:16:41 --> Trying to get property 'nip' of non-object
+#0 C:\xampp\htdocs\megadata\app\Controllers\Admin.php(249): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 249, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->tambah_pegawai_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-06 09:16:56 --> Trying to get property 'nip' of non-object
+#0 C:\xampp\htdocs\megadata\app\Controllers\Admin.php(249): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 249, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->tambah_pegawai_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-06 09:19:59 --> Undefined property: App\Controllers\Admin::$PegawaiMode
+#0 C:\xampp\htdocs\megadata\app\Controllers\Admin.php(247): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 247, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->tambah_pegawai_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-06 09:20:45 --> Trying to get property 'nip' of non-object
+#0 C:\xampp\htdocs\megadata\app\Controllers\Admin.php(250): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 250, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->tambah_pegawai_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-06 09:22:09 --> Trying to get property 'nip' of non-object
+#0 C:\xampp\htdocs\megadata\app\Controllers\Admin.php(250): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 250, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->tambah_pegawai_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-06 09:34:14 --> Trying to get property 'nip' of non-object
+#0 C:\xampp\htdocs\megadata\app\Controllers\Admin.php(250): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 250, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->tambah_pegawai_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-06 09:39:21 --> Trying to get property 'nip' of non-object
+#0 C:\xampp\htdocs\megadata\app\Controllers\Admin.php(249): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 249, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->tambah_pegawai_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-06 09:40:24 --> Call to a member function getResultObject() on array
+#0 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->tambah_pegawai_()
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-06 09:40:42 --> Call to a member function getResultObject() on array
+#0 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->tambah_pegawai_()
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-06 09:41:09 --> Call to a member function getRowObject() on array
+#0 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->tambah_pegawai_()
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-06 09:41:51 --> Call to undefined method App\Models\PegawaiModel::getResultObject
+#0 C:\xampp\htdocs\megadata\app\Controllers\Admin.php(247): CodeIgniter\Model->__call('getResultObject', Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->tambah_pegawai_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-06 11:47:05 --> Undefined variable: jabatan
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(124): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 124, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(83): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 11:48:37 --> Trying to get property 'id_jabatan' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(125): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 125, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(84): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 12:04:09 --> Trying to get property 'id_jabatan' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(125): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 125, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(84): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 12:06:43 --> Undefined variable: karyawan
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 127, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(84): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 12:06:57 --> Undefined variable: key
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(129): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 129, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(84): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 12:48:28 --> Invalid file: admin/pegawai/tambah-pegawai1.php
+#0 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/pegawai/t...')
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('admin/pegawai/t...', Array, true)
+#2 C:\xampp\htdocs\megadata\app\Controllers\Admin.php(237): view('admin/pegawai/t...', Array)
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->tambah_pegawai()
+#4 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-06 14:44:47 --> Trying to get property 'tgl_absen' of non-object
+#0 C:\xampp\htdocs\megadata\app\Controllers\Admin.php(868): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 868, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->absen('RkneXrIU8o')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-06 14:45:26 --> Trying to get property 'tgl_absen' of non-object
+#0 C:\xampp\htdocs\megadata\app\Controllers\Admin.php(868): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 868, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->absen('RkneXrIU8o')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-06 14:51:15 --> Trying to get property 'tgl_absen' of non-object
+#0 C:\xampp\htdocs\megadata\app\Controllers\Admin.php(868): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 868, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->absen('RkneXrIU8o')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-06 14:58:49 --> Argument 1 passed to CodeIgniter\Database\BaseBuilder::get() must be of the type int or null, string given, called in C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Model.php on line 728
+#0 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Model.php(728): CodeIgniter\Database\BaseBuilder->get('tgl_absen')
+#1 C:\xampp\htdocs\megadata\app\Models\AbsenModel.php(30): CodeIgniter\Model->__call('get', Array)
+#2 C:\xampp\htdocs\megadata\app\Controllers\Admin.php(868): App\Models\AbsenModel->getByKodeTanggal('RkneXrIU8o')
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->absen('RkneXrIU8o')
+#4 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-06 14:59:29 --> Call to undefined method App\Models\AbsenModel::getVar
+#0 C:\xampp\htdocs\megadata\app\Models\AbsenModel.php(30): CodeIgniter\Model->__call('getVar', Array)
+#1 C:\xampp\htdocs\megadata\app\Controllers\Admin.php(868): App\Models\AbsenModel->getByKodeTanggal('RkneXrIU8o')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->absen('RkneXrIU8o')
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#4 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-06 14:59:39 --> Call to undefined method App\Models\AbsenModel::getVar
+#0 C:\xampp\htdocs\megadata\app\Models\AbsenModel.php(30): CodeIgniter\Model->__call('getVar', Array)
+#1 C:\xampp\htdocs\megadata\app\Controllers\Admin.php(868): App\Models\AbsenModel->getByKodeTanggal('RkneXrIU8o')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->absen('RkneXrIU8o')
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#4 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-06 14:59:42 --> Call to undefined method App\Models\AbsenModel::getVar
+#0 C:\xampp\htdocs\megadata\app\Models\AbsenModel.php(30): CodeIgniter\Model->__call('getVar', Array)
+#1 C:\xampp\htdocs\megadata\app\Controllers\Admin.php(868): App\Models\AbsenModel->getByKodeTanggal('RkneXrIU8o')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->absen('RkneXrIU8o')
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#4 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-06 15:01:07 --> Call to undefined method stdClass::getVar()
+#0 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->absen('RkneXrIU8o')
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-06 15:22:54 --> Undefined index: nip
+#0 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(91): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 91, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-06 15:23:10 --> Trying to get property 'nip' of non-object
+#0 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(91): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 91, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-06 15:23:14 --> Trying to get property 'nip' of non-object
+#0 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(91): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 91, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-06 15:25:26 --> Undefined index: nip
+#0 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(91): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 91, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-06 15:25:45 --> Trying to get property 'nip' of non-object
+#0 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(91): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 91, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-06 15:26:18 --> Undefined index: nip
+#0 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(91): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 91, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-06 15:26:28 --> Undefined index: nip
+#0 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(91): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 91, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-06 15:30:43 --> Undefined index: nip
+#0 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(91): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 91, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-06 15:31:53 --> Undefined index: nip
+#0 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(92): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 92, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-06 15:34:24 --> Trying to get property 'nip' of non-object
+#0 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(92): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 92, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-06 15:35:51 --> Call to a member function asObject() on array
+#0 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile_()
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-06 15:36:06 --> Call to a member function asObject() on array
+#0 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile_()
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-06 15:40:53 --> Undefined index: nip
+#0 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(92): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 92, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile_()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-06 15:48:13 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(85): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:48:56 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(85): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:48:58 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(85): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:48:59 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(85): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:49:00 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(85): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:49:09 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\dashboard.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/dashboa...', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(57): view('pegawai/dashboa...', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->index()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:49:26 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\dashboard.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/dashboa...', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(57): view('pegawai/dashboa...', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->index()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:49:27 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(85): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:49:28 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\dashboard.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/dashboa...', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(57): view('pegawai/dashboa...', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->index()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:49:28 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(85): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:49:29 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(85): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:49:29 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(85): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:49:29 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(85): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:49:30 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(85): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:49:30 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(85): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:49:31 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\dashboard.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/dashboa...', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(57): view('pegawai/dashboa...', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->index()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:49:31 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\dashboard.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/dashboa...', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(57): view('pegawai/dashboa...', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->index()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:49:40 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\dashboard.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/dashboa...', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(57): view('pegawai/dashboa...', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->index()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:49:59 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\dashboard.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/dashboa...', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(57): view('pegawai/dashboa...', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->index()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:50:01 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\dashboard.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/dashboa...', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(57): view('pegawai/dashboa...', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->index()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:50:02 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(85): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:50:02 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(85): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:50:02 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(85): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:50:02 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(85): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:50:02 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(85): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:50:03 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(85): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:50:04 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(85): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:50:04 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(85): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:50:05 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(85): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:50:05 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(85): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:50:05 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(85): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:50:06 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(85): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:50:06 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(85): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:50:07 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\dashboard.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/dashboa...', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(57): view('pegawai/dashboa...', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->index()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:50:07 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\dashboard.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/dashboa...', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(57): view('pegawai/dashboa...', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->index()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:50:07 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(85): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:50:28 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\dashboard.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/dashboa...', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(57): view('pegawai/dashboa...', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->index()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:50:44 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\dashboard.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/dashboa...', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(57): view('pegawai/dashboa...', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->index()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:50:51 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\dashboard.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/dashboa...', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(57): view('pegawai/dashboa...', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->index()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:51:23 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\dashboard.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/dashboa...', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(57): view('pegawai/dashboa...', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->index()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:51:25 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\dashboard.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/dashboa...', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(57): view('pegawai/dashboa...', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->index()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:51:41 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\dashboard.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/dashboa...', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(57): view('pegawai/dashboa...', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->index()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:51:44 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\dashboard.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/dashboa...', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(57): view('pegawai/dashboa...', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->index()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:51:52 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\dashboard.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/dashboa...', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(57): view('pegawai/dashboa...', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->index()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:51:54 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\dashboard.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/dashboa...', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(57): view('pegawai/dashboa...', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->index()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:52:36 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\dashboard.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/dashboa...', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(57): view('pegawai/dashboa...', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->index()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:53:37 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\dashboard.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/dashboa...', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(57): view('pegawai/dashboa...', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->index()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:58:34 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(85): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:58:38 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(85): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:58:40 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(85): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:58:40 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(85): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:58:41 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(85): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:58:41 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(85): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-06 15:58:42 --> Trying to get property 'gambar' of non-object
+#0 C:\xampp\htdocs\megadata\app\Views\pegawai\profile.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('pegawai/profile', Array, true)
+#4 C:\xampp\htdocs\megadata\app\Controllers\Pegawai.php(85): view('pegawai/profile', Array)
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Pegawai->profile()
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

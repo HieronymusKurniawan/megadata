@@ -1,0 +1,79 @@
+CRITICAL - 2022-02-07 06:08:35 --> Invalid file: login.php
+#0 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 C:\xampp\htdocs\presensi-2\app\Controllers\Auth.php(9): view('login')
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Auth->index()
+#4 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-07 06:09:51 --> Invalid file: login.php
+#0 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 C:\xampp\htdocs\presensi-2\app\Controllers\Auth.php(9): view('login')
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Auth->index()
+#4 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-07 06:09:52 --> Invalid file: login.php
+#0 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 C:\xampp\htdocs\presensi-2\app\Controllers\Auth.php(9): view('login')
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Auth->index()
+#4 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-07 20:15:49 --> Invalid file: admin/pegawai/daa-pegawai.php
+#0 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/pegawai/d...')
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('admin/pegawai/d...', Array, true)
+#2 C:\xampp\htdocs\presensi-2\app\Controllers\Admin.php(53): view('admin/pegawai/d...', Array)
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->pegawai()
+#4 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-07 22:19:33 --> Invalid file: admin/pegawai/tambah-jabatan.php
+#0 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/pegawai/t...')
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('admin/pegawai/t...', Array, true)
+#2 C:\xampp\htdocs\presensi-2\app\Controllers\Admin.php(131): view('admin/pegawai/t...', Array)
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->tambah_jabatan()
+#4 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-02-07 22:52:18 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+CRITICAL - 2022-02-07 22:52:18 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+#0 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(332): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Database\BaseConnection.php(1226): CodeIgniter\Database\MySQLi\Connection->_escapeString('Operator QC')
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Database\BaseConnection.php(1198): CodeIgniter\Database\BaseConnection->escapeString('Operator QC')
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1704): CodeIgniter\Database\BaseConnection->escape('Operator QC')
+#4 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1640): CodeIgniter\Database\BaseBuilder->setInsertBatch(Array, '', true)
+#5 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Model.php(272): CodeIgniter\Database\BaseBuilder->insertBatch(Array, NULL, 100)
+#6 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\BaseModel.php(814): CodeIgniter\Model->doInsertBatch(Array, NULL, 100, false)
+#7 C:\xampp\htdocs\presensi-2\app\Controllers\Admin.php(156): CodeIgniter\BaseModel->insertBatch(Array)
+#8 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->tambah_jabatan_()
+#9 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#10 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-02-07 22:52:18 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in C:\xampp\htdocs\presensi-2\app\Views\errors\html\error_exception.php:96
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', 'C:\\xampp\\htdocs...', 96, Array)
+#1 C:\xampp\htdocs\presensi-2\app\Views\errors\html\error_exception.php(96): print_r(Object(App\Controllers\Admin), true)
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Debug\Exceptions.php(234): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Debug\Exceptions.php(237): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#4 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\Debug\Exceptions.php(121): CodeIgniter\Debug\Exceptions->render(Object(CodeIgniter\Database\Exceptions\DatabaseException), 500)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Database\Exceptions\DatabaseException))
+#6 {main}
+ 
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-02-07 23:21:55 --> Call to a member function getError() on null
+#0 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Admin->tambah_pegawai_()
+#1 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\presensi-2\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\presensi-2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

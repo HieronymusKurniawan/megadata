@@ -1,0 +1,42 @@
+CRITICAL - 2022-08-16 01:42:24 --> Call to undefined function set_value()
+#0 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('auth/login', Array, true)
+#3 C:\xampp\htdocs\megadata\app\Controllers\Auth.php(36): view('auth/login')
+#4 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Auth->index()
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-08-16 01:51:11 --> Column 'password' cannot be null
+CRITICAL - 2022-08-16 01:51:11 --> Column 'password' cannot be null
+#0 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `pe...', 0)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pe...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pe...')
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pe...', Array, false)
+#4 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\megadata\app\Controllers\Auth.php(201): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Auth->register()
+#10 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#11 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-08-16 01:53:06 --> Column 'password' cannot be null
+CRITICAL - 2022-08-16 01:53:06 --> Column 'password' cannot be null
+#0 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `pe...', 0)
+#1 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pe...')
+#2 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pe...')
+#3 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pe...', Array, false)
+#4 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\megadata\app\Controllers\Auth.php(201): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(825): App\Controllers\Auth->register()
+#10 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#11 C:\xampp\htdocs\megadata\vendor\codeigniter4\framework\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\megadata\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
