@@ -1,3 +1,4 @@
+CARA INSTALASI WEB PRESENSI MEGADATA
 1. Buka aplikasi xampp dengan run as administrator 
 2. Klik menu Config, Kemudian klik php.ini
 3. Cari kata extension=intl supaya cepat bisa langsung klik ctrl+f. Jika sudah ketemu, hapus tanda titik koma yg ada di depan tulisan extension=intl 
